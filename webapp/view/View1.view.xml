@@ -4,6 +4,7 @@
     <Page id="page" title="{i18n>title}">
 
     <Label id="_IDGenLabel" text="Hello World"/>
+     <Label id="_IDGenLabel1" text="This is Simple Fiori Project"/>
     <Button id="_IDGenButton" text="Clik Here"/>
    
     </Page>
